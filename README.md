@@ -1,5 +1,5 @@
 # Build-a-Jarvis
-Your very own Jarvis Discord bot!
+Your very own Jarvis Discord chat-bot!
 
 
 
