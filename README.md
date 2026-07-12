@@ -8,5 +8,5 @@ Your very own Jarvis Discord chat-bot!
 
 
 
-https://github.com/user-attachments/assets/22ea7967-b435-45e6-a8f4-277b52b6f186
 
+https://github.com/user-attachments/assets/22ea7967-b435-45e6-a8f4-277b52b6f186
